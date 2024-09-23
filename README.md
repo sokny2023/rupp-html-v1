@@ -1,4 +1,4 @@
-# HTML in RUPP
+# WEB DEV in RUPP
 ## Semester 1:
  ###   HTML
  ###   CSS
